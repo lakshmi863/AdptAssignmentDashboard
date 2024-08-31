@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting ready open this site
 
 The adptNEXT Assignment complet please open this web site(https://nextadptdashboard.netlify.app/)
 
